@@ -1,6 +1,6 @@
 {
   "name": "cordova-platform-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Runtime utilities for Cordova - Mainly extracted from ionic.Platform",
   "main": "lib/util.js",
   "scripts": {
