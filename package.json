@@ -1,0 +1,23 @@
+{
+  "name": "cordova-platform-util",
+  "version": "1.0.0",
+  "description": "cordovaPlatformUtil - Runtime utilities for Cordova - Mainly extracted from ionic.Platform",
+  "main": "lib/util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cordova",
+    "platform"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/loicmahieu/cordova-platform-util.git"
+  },
+  "homepage": "https://github.com/loicmahieu/cordova-platform-util",
+  "bugs": "https://github.com/loicmahieu/cordova-platform-util/issues",
+  "license": "ISC",
+  "dependencies": {
+    "dom-ready": "^1.0.4"
+  }
+}
