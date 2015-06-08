@@ -1,7 +1,7 @@
 {
   "name": "cordova-platform-util",
   "version": "1.0.0",
-  "description": "cordovaPlatformUtil - Runtime utilities for Cordova - Mainly extracted from ionic.Platform",
+  "description": "Runtime utilities for Cordova - Mainly extracted from ionic.Platform",
   "main": "lib/util.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
