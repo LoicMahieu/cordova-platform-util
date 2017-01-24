@@ -1,6 +1,8 @@
 
 # Cordova Platform Utils
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LoicMahieu/cordova-platform-util.svg)](https://greenkeeper.io/)
+
 Mainly `ionic.Platform` exported and publish as a standalone module.
 
 ## Doc
